@@ -1,0 +1,1 @@
+# Mapping-Israel-s-Political-Footprint-A-Temporal-Network-Analysis-of-Global-Events-Using-GDELT-2.0

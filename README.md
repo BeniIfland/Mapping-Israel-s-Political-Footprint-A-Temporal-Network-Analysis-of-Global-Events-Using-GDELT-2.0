@@ -37,5 +37,10 @@ Our findings highlight the complex and often adversarial nature of Israel's glob
 - **Expert Interpretation:** Incorporate domain experts to enhance analysis accuracy.
 - **Continuous Monitoring:** As the war is still ongoing, continued tracking could reveal emerging patterns and shifts in alliances.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software, provided that the original copyright notice and this license are included.
 
 

@@ -1,11 +1,11 @@
 # Mapping-Israel-s-Political-Footprint-A-Temporal-Network-Analysis-of-Global-Events-Using-GDELT
 
-This project analyzes the global media narrative surrounding Israel during a 15-month period marked by war, leadership changes, and anticipated military actions. Using the **GDELT 2.0** dataset, we construct and examine monthly positive and negative interaction networks to uncover patterns in sentiment, community structure, and geopolitical positioning.
+This project analyzes the global media narrative surrounding Israel during a 20-month period marked by war, leadership changes, and anticipated military actions. Using the **GDELT 2.0** dataset, we construct and examine monthly positive and negative interaction networks to uncover patterns in sentiment, community structure, and geopolitical positioning.
 
 ## Overview
 
 - **Data Source:** [GDELT 2.0](https://www.gdeltproject.org/)
-- **Timeframe:** 15 months (war period)
+- **Timeframe:** 21 months (from October 7th 2023 to June 12th 2025)
 - **Approach:**  
   - Build monthly positive and negative sub-networks from GDELT event data.
   - Analyze degree distributions, centrality metrics, and sentiment balance.
